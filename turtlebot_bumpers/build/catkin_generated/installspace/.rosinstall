@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot5/turtlebot_bumpers/install/setup.sh

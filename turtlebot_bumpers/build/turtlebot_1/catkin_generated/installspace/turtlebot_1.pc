@@ -1,0 +1,8 @@
+prefix=/home/robot5/turtlebot_bumpers/install
+
+Name: turtlebot_1
+Description: Description of turtlebot_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robot5/turtlebot_bumpers/install/lib 
+Requires: 

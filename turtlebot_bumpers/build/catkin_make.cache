@@ -1,0 +1,2 @@
+turtlebot_1
+-DCATKIN_DEVEL_PREFIX=/home/robot5/turtlebot_bumpers/devel -DCMAKE_INSTALL_PREFIX=/home/robot5/turtlebot_bumpers/install -G Unix Makefiles
